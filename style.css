@@ -5,13 +5,13 @@ box-sizing: border-box;
 }
 .card{
     height: 512px;
-    width: 30vw;
+    width: 27vw;
     /* max-width: 368px; */
     box-shadow: rgb(241,243,254) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
     position: absolute;
     margin: auto;
     inset: 0;
-    margin-left: 260px;
+    margin-left: 257px;
     border-radius: 35px;    
     background: linear-gradient(hsl(251, 98%, 62%), hsl(247, 89%, 58%), hsl(251, 99%, 63%));
 }
